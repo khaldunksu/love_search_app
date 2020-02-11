@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/love_search_app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/love_search_app/static/js/main.1587ae29.chunk.js",
+    "main.js.map": "/love_search_app/static/js/main.1587ae29.chunk.js.map",
+    "runtime-main.js": "/love_search_app/static/js/runtime-main.fee267b7.js",
+    "runtime-main.js.map": "/love_search_app/static/js/runtime-main.fee267b7.js.map",
+    "static/js/2.185171c4.chunk.js": "/love_search_app/static/js/2.185171c4.chunk.js",
+    "static/js/2.185171c4.chunk.js.map": "/love_search_app/static/js/2.185171c4.chunk.js.map",
+    "index.html": "/love_search_app/index.html",
+    "precache-manifest.d0f151f5ba80502ae68c530896d14c6d.js": "/love_search_app/precache-manifest.d0f151f5ba80502ae68c530896d14c6d.js",
+    "service-worker.js": "/love_search_app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/love_search_app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.185171c4.chunk.js.LICENSE.txt": "/love_search_app/static/js/2.185171c4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/love_search_app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fee267b7.js",
+    "static/js/2.185171c4.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.1587ae29.chunk.js"
+  ]
+}
