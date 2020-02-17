@@ -18,4 +18,3 @@ const Users = ({ visiblePeople, handleOnClick }) => {
 }
 
 export default Users;
-///1)от и до. 3)список алфавит, 4)debounce?.
